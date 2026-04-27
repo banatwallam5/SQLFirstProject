@@ -1,2 +1,2 @@
 # SQLFirstProject
-## First Project on SQL sone by following along on the ALex the Analysts Project walkthrough
+## First Project on SQL done by following along on the Alex the Analyst's Project walkthrough
